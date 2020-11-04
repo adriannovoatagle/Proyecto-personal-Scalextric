@@ -1,0 +1,15 @@
+MATERIALES
+
+2 CI 7447 (decodificador display 7s) - DM7447A
+2 CI 7490 (Decade and Binary Counters) - DM7490A
+2 Display de 7 segmentos ánodo común    
+14 Resistor de 330 ohms 1/4 w	+- 5%	 
+2 Resistor de 1K ohm 1/4 w +- 5%		 
+1 potenciómetro de 50k ohms		
+1 Fotorresistencia (LDR)	10 lux 10k ohm
+2 Transistores BC548B			
+1 pulsador normal abierto		
+
+
+
+

@@ -1,0 +1,33 @@
+Cuenta vueltas digital + Reset
+
+2 CI 7447 (decodificador display 7s) - DM7447A
+2 CI 7490 (Decade and Binary Counters) - DM7490A
+2 Display de 7 segmentos ánodo común    
+14 Resistor de 330 ohms 1/4 w	+- 5%	 
+2 Resistor de 1K ohm 1/4 w +- 5%		 
+1 potenciómetro de 50k ohms		
+1 Fotorresistencia (LDR)	10 lux 10k ohm
+2 Transistores BC548B			
+1 pulsador normal abierto	
+
+
+
+
+Semaforo de largada F1
+
+
+6 Circuitos integrados 555
+6 resistencias de 22K, 1/4 watt +- 5%
+5 resistencias de 1K, 1/4 watt +- 5%
+10 resistencias de 500 omhs, 1/4 watt +- 5%
+6 resistencias de 100K, 1/4 watt +- 5%
+6 potenciómetros 50k omhs
+6 capacitores electrolìticos de 100uF x 16v
+6 capacitores ceramicos de 0.01uF
+6 capacitores de 1uF
+2 capacitores electroliticos de 4700uF x 16v
+10 diodos LED rojos
+5 diodos LED verdes 
+11 diodos 1N4004
+1 interruptor de contacto momentáneo (s) (normal abierto)
+

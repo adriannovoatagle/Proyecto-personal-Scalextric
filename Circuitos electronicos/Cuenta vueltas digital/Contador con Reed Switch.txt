@@ -1,0 +1,14 @@
+Report (Contador con Reed Switch.lvw)
+
+Materiales				     Cantidad
+
+Pulsador normal abierto				1
+Switch de encendido/apagado			1
+0.1µF Capacitor					1
+10 Kilo ohms Resistor (1/4W)			1
+330 ohms Resistor (1/4W)			16
+560 ohms Resistor (1/4W)			1
+74LS47 	7-Segment Decoder and Driver		2
+74LS90 	Decade (Divide-by-10) Counter		2
+7805 (5V, 1A) Voltage Regulator			1
+Reed Switch					1

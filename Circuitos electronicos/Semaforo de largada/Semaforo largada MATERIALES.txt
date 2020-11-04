@@ -1,0 +1,11 @@
+4 Circuitos integrados 555
+4 resistencias (R1, R6, R9) de 22K, 1/4 watt
+4 resistencias (R2, R4, R7) de 1K, 1/4 watt
+4 resistencias (R3, R5, R8) de 100K, 1/4 watt
+4 potenciómetros 50k omhs(VR1, VR2, VR3, VR4) que permite variar el tiempo del monostable
+4 capacitores electrolìticos (C2, C6, C8) de 100uF
+4 capacitores (C1, C4, C5) de 0.01uF
+4 capacitores (C3, C7, C9) de 1uF
+15 diodos LED rojos
+5 diodos LED verdes 
+1 interruptor de contacto momentáneo (s) (normal abierto)
